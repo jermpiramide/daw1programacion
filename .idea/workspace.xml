@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="">
+    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Actualización inicial con todos los ejemplos y ejercicios de la Unidad 01.">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Programacion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/U01ejemp01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/U01ejemp02.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/U01ejemp03.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/U01ejemp04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejemp05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejemp06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejemp07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejemp08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejemp09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejemp10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U01ejerc14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664798508338</updated>
     </task>
+    <task id="LOCAL-00001" summary="Actualización inicial con todos los ejemplos y ejercicios de la Unidad 01.">
+      <created>1664799514692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664799514693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actualización inicial con todos los ejemplos y ejercicios de la Unidad 01." />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualización inicial con todos los ejemplos y ejercicios de la Unidad 01." />
   </component>
 </project>
