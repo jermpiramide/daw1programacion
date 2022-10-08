@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Actualización inicial con todos los ejemplos y ejercicios de la Unidad 01.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programacion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejemp01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejemp02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejemp03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejemp04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejemp05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejemp06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejemp07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejemp08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejemp09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejemp10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U01ejerc14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +30,28 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.U2ejemp11">
+    <configuration name="U2ejemp11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U2ejemp11" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="U2ejempMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U2ejempMath" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.U2ejemp11" />
+        <item itemvalue="Application.U2ejempMath" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664799514693</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Actualización inicial con todos los ejemplos y ejercicios de la Unidad 01.">
+      <created>1664799585008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664799585008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
