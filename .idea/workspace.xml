@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Actualización con ejemplos de la Unidad 2">
-      <change afterPath="$PROJECT_DIR$/src/U2ejemp14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2ejemp15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U2ejemp12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U2ejemp12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U2ejemp13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U2ejemp13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U2ejemp15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U2ejemp15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665264562343</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Actualización con ejemplos de la Unidad 2">
+      <created>1665270524736</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665270524736</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

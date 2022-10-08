@@ -18,11 +18,11 @@ public class U2ejemp15 {
         sc = new Scanner(System.in);
         menu = 0;
 
-        while(menu!=3){
-            System.out.println("Introduzca '1' si desea hacer una división o introduzca '2' si desea hacer una" +
-                            " raíz o introduzca 3 para finalizar el programa: ");
-            menu = sc.nextInt();
+        System.out.println("Introduzca '1' si desea hacer una división o introduzca '2' si desea hacer una" +
+                " raíz o introduzca 3 para finalizar el programa: ");
+        menu = sc.nextInt();
 
+        while(menu!=3){
             if(menu == 1){
                 System.out.println("Introduzca el dividendo y el divisor separados por un espacio: ");
                 dividendo = sc.nextDouble();
@@ -47,6 +47,9 @@ public class U2ejemp15 {
             } else{
                 System.out.println("No ha elegido ninguna opción correcta.");
             }
+            System.out.println("Introduzca '1' si desea hacer una división o introduzca '2' si desea hacer una" +
+                    " raíz o introduzca 3 para finalizar el programa: ");
+            menu = sc.nextInt();
         }
         System.out.println("Se ejecuta hasta el final.");
     }
