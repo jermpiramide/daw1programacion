@@ -7,7 +7,8 @@ public class U2ejemp12 {
     public static void main(String args[]){
 
         Scanner sc;
-        int cantidad, fibo1, fibo2;
+        int cantidad;
+        long fibo1, fibo2;
 
         sc = new Scanner(System.in);
         //Inicializamos las variables fibo1 y fibo2 con los dos primeros términos de la serie de Fibonacci.
@@ -28,5 +29,19 @@ public class U2ejemp12 {
                 fibo2 = fibo1 + fibo2;
             }
         }
+/*
+        //Otro posible algoritmo para generar la serie consiste en untilizar una variable auxiliar.
+        long aux;
+
+        System.out.printf("Término número 1: %d", fibo1);
+        System.out.printf("Término número 2: %d", fibo2);
+
+        for (int i=2; i<cantidad; i++=){
+            aux = fibo2;
+            fibo2 = fibo1 + fibo2;
+            System.out.printf("Término número %d: %d%n", (i+1), fibo2);
+            fibo1 = aux;
+        }
+ */
     }
 }
