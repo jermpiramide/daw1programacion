@@ -10,21 +10,23 @@ public class U2ejemp12 {
         int cantidad, fibo1, fibo2;
 
         sc = new Scanner(System.in);
-        fibo2 = 1;
+        //Inicializamos las variables fibo1 y fibo2 con los dos primeros términos de la serie de Fibonacci.
+        //Estos dos primeros términos son especiales ya que son las semillas que utiliza el algoritmo de
+        //Fibonacci para generar la serie.
         fibo1 = 0;
+        fibo2 = 1;
 
         System.out.println("Introduzca la cantidad de términos que quiere visualizar por pantalla: ");
         cantidad = sc.nextInt();
 
-        System.out.printf("Término número 1: %d%n", fibo1);
-
-        fibo1 = fibo2;
-
-        for (int i=1; i<cantidad; i += 2){
+        //Realizamos mediante un bucle los sucesivos pasos del algoritmo calculando dos términos por iteración.
+        for (int i=0; i<cantidad; i += 2){
             System.out.printf("Término número %d: %d%n", (i+1), fibo1);
-            System.out.printf("Término número %d: %d%n", (i+2), fibo2);
             fibo1 = fibo1 + fibo2;
-            fibo2 = fibo1 + fibo2;
+            if (i<(cantidad-1)){
+                System.out.printf("Término número %d: %d%n", (i+2), fibo2);
+                fibo2 = fibo1 + fibo2;
+            }
         }
     }
 }
