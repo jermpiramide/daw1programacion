@@ -2,10 +2,6 @@
 // y divisiones y si una operación no es posible lo comunique. Nos permitirá introducir
 // las operaciones mediante un menú, y no terminará hasta que le digamos que lo haga.
 
-
-//Si dividimos entre cero o hacemos la raíz de un número negativo la operación no da error.
-//
-
 import java.util.Scanner;
 
 public class U2ejemp15 {
@@ -18,11 +14,12 @@ public class U2ejemp15 {
         sc = new Scanner(System.in);
         menu = 0;
 
-        System.out.println("Introduzca '1' si desea hacer una división o introduzca '2' si desea hacer una" +
+        System.out.println("Introduzca '1' si desea calcular una división o introduzca '2' si desea calcular una" +
                 " raíz o introduzca 3 para finalizar el programa: ");
         menu = sc.nextInt();
 
         while(menu!=3){
+            //Si dividimos entre cero o hacemos la raíz de un número negativo la operación no da error.
             if(menu == 1){
                 System.out.println("Introduzca el dividendo y el divisor separados por un espacio: ");
                 dividendo = sc.nextDouble();
