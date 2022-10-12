@@ -20,6 +20,19 @@ public class U2ejemp15 {
 
         while(menu!=3){
             //Si dividimos entre cero o hacemos la raíz de un número negativo la operación no da error.
+            /*
+            sqrt:
+            public static double sqrt(double a)
+            Returns the correctly rounded positive square root of a double value. Special cases:
+                If the argument is NaN or less than zero, then the result is NaN.
+                If the argument is positive infinity, then the result is positive infinity.
+                If the argument is positive zero or negative zero, then the result is the same as the argument.
+            Otherwise, the result is the double value closest to the true mathematical square root of the argument value.
+            Parameters:
+                a - a value.
+            Returns:
+                the positive square root of a. If the argument is NaN or less than zero, the result is NaN.
+             */
             if(menu == 1){
                 System.out.println("Introduzca el dividendo y el divisor separados por un espacio: ");
                 dividendo = sc.nextDouble();
