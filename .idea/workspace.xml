@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Importación al pc del instituto y modificación de nombres.">
-      <change afterPath="$PROJECT_DIR$/src/U02ejerc09.java" afterDir="false" />
+    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde el pc del instituto: actualización U02.">
+      <change afterPath="$PROJECT_DIR$/src/U03ejemp01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U03ejemp02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejerc08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc08.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +45,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.U02ejerc09">
-    <configuration name="U02ejerc05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U02ejerc05" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.U03ejemp02">
     <configuration name="U02ejerc07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="U02ejerc07" />
       <module name="Programacion" />
@@ -74,8 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U2ejerc06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U2ejerc06" />
+    <configuration name="U03ejemp01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejemp01" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="U03ejemp02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejemp02" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.U03ejemp02" />
+        <item itemvalue="Application.U03ejemp01" />
         <item itemvalue="Application.U02ejerc09" />
         <item itemvalue="Application.U02ejerc08" />
         <item itemvalue="Application.U02ejerc07" />
-        <item itemvalue="Application.U2ejerc06" />
-        <item itemvalue="Application.U02ejerc05" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665651139271</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Desde el pc del instituto: actualización U02.">
+      <created>1665651865767</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665651865767</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Desde el pc del instituto: actualización U02.">
+      <created>1665652321802</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665652321802</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +217,8 @@
     <MESSAGE value="Actualización con ejemplos de la Unidad 2" />
     <MESSAGE value="Actualización con ejemplos y ejercicios de la Unidad 2" />
     <MESSAGE value="Importación al pc del instituto y modificación de nombres." />
-    <option name="LAST_COMMIT_MESSAGE" value="Importación al pc del instituto y modificación de nombres." />
+    <MESSAGE value="Desde el pc del instituto: actualización U02." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desde el pc del instituto: actualización U02." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -227,6 +242,11 @@
           <url>file://$PROJECT_DIR$/src/U02ejerc07.java</url>
           <line>19</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/U03ejemp01.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
