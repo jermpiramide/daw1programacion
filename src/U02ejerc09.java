@@ -1,14 +1,18 @@
-//Escribe un programa que solicite al usuario un número N y luego muestre por pantalla la siguiente ejecución:
+//Ejercicio 9: Escribe un programa que solicite al usuario un número N y luego muestre
+// por pantalla la siguiente ejecución:
 //1
 //1 2
 //1 2 3
-//1 2 3 4
-//…………
-//1 2 3 4 …..N
+//……
+//1 2 3 ….N
+//…
+//1 2 3
+//1 2
+//1
 
 import java.util.Scanner;
 
-public class U02ejerc08 {
+public class U02ejerc09 {
     public static void main(String args[]){
 
         Scanner sc;
@@ -21,6 +25,12 @@ public class U02ejerc08 {
 
         for(int i=0; i<numero; i++){
             for(int j=0; j<=i; j++){
+                System.out.printf("%d ", (j+1));
+            }
+            System.out.println();
+        }
+        for(int i=(numero-1); i>0; i--){
+            for(int j=0; j<=(i-1); j++){
                 System.out.printf("%d ", (j+1));
             }
             System.out.println();
