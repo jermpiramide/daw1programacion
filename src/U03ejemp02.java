@@ -21,6 +21,8 @@ public class U03ejemp02 {
         System.out.println();
 
         modificaArray(nota, posicion, nuevanota);
+
+        muestraArray(nota);
     }
 
     public static void duplicaEntero(int anos){
@@ -36,7 +38,8 @@ public class U03ejemp02 {
         }
     }
 
-    public static void modificaArray(double[] array, int posicion, int cambio);
+    public static void modificaArray(double[] array, int posicion, int cambio){
 
-    array[posicion] = cambio;
+        array[posicion] = cambio;
+    }
 }
