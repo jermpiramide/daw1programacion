@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Actualización con ejemplos y ejercicios de la Unidad 2">
-      <change afterPath="$PROJECT_DIR$/src/U2ejerc06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2ejerc07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2ejerc08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U02ejerc06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejerc05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U2ejerc06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U2ejerc07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U2ejerc08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc08.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +37,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.U2ejerc07">
+  <component name="RunManager" selected="Application.U02ejerc07">
     <configuration name="U02ejerc02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="U02ejerc02" />
       <module name="Programacion" />
@@ -68,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="U02ejerc07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U02ejerc07" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="U2ejerc06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="U2ejerc06" />
       <module name="Programacion" />
@@ -75,16 +85,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U2ejerc07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U2ejerc07" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.U2ejerc07" />
+        <item itemvalue="Application.U02ejerc07" />
         <item itemvalue="Application.U2ejerc06" />
         <item itemvalue="Application.U02ejerc05" />
         <item itemvalue="Application.U02ejerc04" />
@@ -217,7 +220,7 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/U2ejerc07.java</url>
+          <url>file://$PROJECT_DIR$/src/U02ejerc07.java</url>
           <line>19</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>

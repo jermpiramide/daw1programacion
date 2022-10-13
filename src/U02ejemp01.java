@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class U2ejemp01 {
+public class U02ejemp01 {
     public static void main(String args[]){
 
         Scanner sc;

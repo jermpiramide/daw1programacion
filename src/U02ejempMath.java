@@ -1,7 +1,7 @@
 // Ejemplos de la clase Math.
 
 
-public class U2ejempMath {
+public class U02ejempMath {
     public static void main(String args[]){
 
         double numero = 43.454;

@@ -2,7 +2,7 @@
 
 
 
-public class U2ejemp08 {
+public class U02ejemp08 {
     public static void main(String args[]){
 
         int numero;

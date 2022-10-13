@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class U2ejemp04 {
+public class U02ejemp04 {
     public static void main(String args[]){
 
         Scanner sc;

@@ -1,7 +1,7 @@
 // Muestra los multiplos de 5 de 0 a 100 (utilizando while)
 
 
-public class U2ejemp07 {
+public class U02ejemp07 {
     public static void main(String args[]){
         int aux;
 

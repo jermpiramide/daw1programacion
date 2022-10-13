@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class U2ejerc08 {
+public class U02ejerc08 {
     public static void main(String args[]){
 
         Scanner sc;

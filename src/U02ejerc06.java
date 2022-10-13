@@ -17,7 +17,7 @@
 
 import java.util.Scanner;
 
-public class U2ejerc06 {
+public class U02ejerc06 {
     public static void main(String arg[]){
 
         Scanner sc;

@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class U2ejemp14 {
+public class U02ejemp14 {
     public static void main(String args[]){
 
         Scanner sc;

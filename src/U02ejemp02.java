@@ -2,7 +2,7 @@
 // teniendo en cuenta que las horas ordinarias (40 primeras) se pagan a 12 € la hora.
 // A partir de la hora 41 se pagan a 16 € la hora.
 
-public class U2ejemp02 {
+public class U02ejemp02 {
     public static void main(String args[]){
 
         int horas, salario;

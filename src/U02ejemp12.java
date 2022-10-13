@@ -3,7 +3,7 @@
 // los dos anteriores. (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144...) El número n se introducirá por teclado.
 import java.util.Scanner;
 
-public class U2ejemp12 {
+public class U02ejemp12 {
     public static void main(String args[]){
 
         Scanner sc;
