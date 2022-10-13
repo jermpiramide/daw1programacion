@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Actualización con ejemplos de la Unidad 2">
-      <change afterPath="$PROJECT_DIR$/src/U02ejerc01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U02ejerc02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U02ejerc03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U02ejerc04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U02ejerc05.java" afterDir="false" />
+    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Actualización con ejemplos y ejercicios de la Unidad 2">
+      <change afterPath="$PROJECT_DIR$/src/U2ejerc06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U2ejerc07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U2ejerc08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U2ejemp15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U2ejemp15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejerc05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,23 +46,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.U02ejerc04">
-    <configuration name="U02ejerc01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U02ejerc01" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.U2ejerc07">
     <configuration name="U02ejerc02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="U02ejerc02" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="U02ejerc03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U02ejerc03" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U2ejemp15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U2ejemp15" />
+    <configuration name="U02ejerc05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U02ejerc05" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="U2ejerc06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U2ejerc06" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="U2ejerc07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U2ejerc07" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.U2ejerc07" />
+        <item itemvalue="Application.U2ejerc06" />
+        <item itemvalue="Application.U02ejerc05" />
         <item itemvalue="Application.U02ejerc04" />
         <item itemvalue="Application.U02ejerc02" />
-        <item itemvalue="Application.U02ejerc03" />
-        <item itemvalue="Application.U02ejerc01" />
-        <item itemvalue="Application.U2ejemp15" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665577678779</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Actualización con ejemplos y ejercicios de la Unidad 2">
+      <created>1665577710478</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665577710478</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,7 +195,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Actualización inicial con todos los ejemplos y ejercicios de la Unidad 01." />
     <MESSAGE value="Actualización con ejemplos de la Unidad 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualización con ejemplos de la Unidad 2" />
+    <MESSAGE value="Actualización con ejemplos y ejercicios de la Unidad 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualización con ejemplos y ejercicios de la Unidad 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -209,6 +215,11 @@
           <url>file://$PROJECT_DIR$/src/U2ejemp15.java</url>
           <line>21</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/U2ejerc07.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
