@@ -30,7 +30,7 @@ public class U02ejerc09 {
             System.out.println();
         }
         for(int i=(numero-1); i>0; i--){
-            for(int j=0; j<=(i-1); j++){
+            for(int j=0; j<=(i-1); j++){//Condicionamos el bucle para que la primera línea no escriba todos los números.
                 System.out.printf("%d ", (j+1));
             }
             System.out.println();
