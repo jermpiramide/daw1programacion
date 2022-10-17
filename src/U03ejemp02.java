@@ -3,14 +3,12 @@
 // lleva estudiando en el centro (pasado como argumento). Luego otro que cambie la primera nota del array
 // (pasado como argumento).
 // Invoca los dos métodos, presenta luego los datos y observa lo que pasa. (utiliza .length)
-//Prueba de cambio Git.
 
 public class U03ejemp02 {
     public static void main(String args[]){
 
         double[] nota = {3, 6, 7, 8, 10, 2, 4, 0, 9};
         int anos = 10, posicion = 0, nuevanota = 8;
-        char a;
 
         System.out.println("Años: " + anos);
 
