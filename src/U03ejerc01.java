@@ -43,6 +43,7 @@ public class U03ejerc01 {
             aux = array[i];
             array[i] = array[array.length-1-i];
             array[array.length-1-i] = aux;
+            //Este bucle se puede optimizar para ahorrar un paso en el caso de que la longitud del array sea impar.
         }
     }
 }
