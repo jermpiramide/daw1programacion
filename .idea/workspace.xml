@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde ASUS. Actualización de ejemplos y ejercicios U03.">
-      <change afterPath="$PROJECT_DIR$/src/U03ejempAleatorio.java" afterDir="false" />
+    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde el pc del instituto: actualización U02.">
+      <change afterPath="$PROJECT_DIR$/src/U03ejerc01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +37,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -47,37 +45,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.U03ejempAleatorio">
-    <configuration name="U03ejemp03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejemp03" />
+  <component name="RunManager" selected="Application.U03ejerc01">
+    <configuration name="U02ejerc08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U02ejerc08" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U03ejemp04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejemp04" />
+    <configuration name="U02ejerc09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U02ejerc09" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U03ejemp05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejemp05" />
+    <configuration name="U03ejemp01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejemp01" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U03ejempAleatorio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejempAleatorio" />
+    <configuration name="U03ejemp02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejemp02" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U03ejempBuclesAnidados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejempBuclesAnidados" />
+    <configuration name="U03ejerc01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejerc01" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.U03ejempAleatorio" />
-        <item itemvalue="Application.U03ejempBuclesAnidados" />
-        <item itemvalue="Application.U03ejemp05" />
-        <item itemvalue="Application.U03ejemp04" />
-        <item itemvalue="Application.U03ejemp03" />
+        <item itemvalue="Application.U03ejerc01" />
+        <item itemvalue="Application.U03ejemp02" />
+        <item itemvalue="Application.U03ejemp01" />
+        <item itemvalue="Application.U02ejerc09" />
+        <item itemvalue="Application.U02ejerc08" />
       </list>
     </recent_temporary>
   </component>
@@ -207,35 +205,7 @@
       <option name="project" value="LOCAL" />
       <updated>1665657071748</updated>
     </task>
-    <task id="LOCAL-00016" summary="Desde ASUS. Actualización de ejemplos y ejercicios U03.">
-      <created>1666032156132</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1666032156132</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Desde ASUS. Actualización de ejemplos y ejercicios U03.">
-      <created>1666032266131</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1666032266131</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Desde ASUS. Actualización de ejemplos y ejercicios U03.">
-      <created>1666032344637</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1666032344637</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Desde ASUS. Actualización de ejemplos y ejercicios U03.">
-      <created>1666044223469</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1666044223469</updated>
-    </task>
-    <option name="localTasksCounter" value="20" />
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,8 +225,7 @@
     <MESSAGE value="Actualización con ejemplos y ejercicios de la Unidad 2" />
     <MESSAGE value="Importación al pc del instituto y modificación de nombres." />
     <MESSAGE value="Desde el pc del instituto: actualización U02." />
-    <MESSAGE value="Desde ASUS. Actualización de ejemplos y ejercicios U03." />
-    <option name="LAST_COMMIT_MESSAGE" value="Desde ASUS. Actualización de ejemplos y ejercicios U03." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desde el pc del instituto: actualización U02." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -285,16 +254,6 @@
           <url>file://$PROJECT_DIR$/src/U03ejemp01.java</url>
           <line>24</line>
           <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/U03ejemp04.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/U03ejempAleatorio.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
