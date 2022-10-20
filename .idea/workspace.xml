@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde el pc del instituto: actualización U03.">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_10_22_9_35_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_10_22_9_35__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U03ejerc07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U03ejerc08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U03ejemp06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U03ejerc09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U03ejerc10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,23 +46,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.U03ejerc08">
-    <configuration name="U03ejerc03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejerc03" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="U03ejerc04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejerc04" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="U03ejerc05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejerc05" />
+  <component name="RunManager" selected="Application.U03ejerc10">
+    <configuration name="U03ejemp06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejemp06" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,13 +68,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="U03ejerc09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejerc09" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="U03ejerc10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejerc10" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.U03ejerc10" />
+        <item itemvalue="Application.U03ejemp06" />
+        <item itemvalue="Application.U03ejerc09" />
         <item itemvalue="Application.U03ejerc08" />
         <item itemvalue="Application.U03ejerc07" />
-        <item itemvalue="Application.U03ejerc05" />
-        <item itemvalue="Application.U03ejerc04" />
-        <item itemvalue="Application.U03ejerc03" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666082247565</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Desde el pc del instituto: actualización U03.">
+      <created>1666167889990</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666167889990</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
