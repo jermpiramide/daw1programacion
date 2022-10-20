@@ -26,7 +26,7 @@ public class U03ejerc10 {
             for(int i=0; i<8; i++){
 
                 aux = palabrabinaria.charAt(i);
-                System.out.println("Llega aquí." + aux);
+
                 if(aux == '0'){
                     numerobinario[i] = 0;
                 }else if(aux == '1'){
