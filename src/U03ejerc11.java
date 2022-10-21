@@ -4,8 +4,29 @@
 import java.util.Scanner;
 
 public class U03ejerc11 {
+    public static void main(String args[]) {
+        //Tomamos un número binario como un String y calculamos directamente su valor en decimal.
 
-    public static void main(String args[]){
+        Scanner sc;
+        int numerodecimal;
+        String palabrabinaria;
+
+        sc = new Scanner(System.in);
+        numerodecimal = 0;
+
+        System.out.println("Introduzca un número binario: ");
+        palabrabinaria = sc.nextLine();
+
+        numerodecimal = stringADecimal(palabrabinaria);
+        if (numerodecimal >= 0) {
+            System.out.println(palabrabinaria + "=" + numerodecimal);
+        } else {
+            System.out.println("El número introducido no es binario.");
+        }
+       /*
+       //Tomamos un número binario como un String, lo pasamos a un array int donde se almacenan todos los dígitos,
+       //calculamos el valor decimal del número binario.
+       //ESTA SIN TERMINAR!!!!!!!!!!!!!!!!!!!
 
         Scanner sc;
         int[] numerobinario;
@@ -45,6 +66,7 @@ public class U03ejerc11 {
         muestraArray(numerobinario);
         numerodecimal = binarioADecimal(numerobinario);
         System.out.println("Decimal: " + numerodecimal);
+    */
     }
 
     public static void muestraArray(int[] array){
@@ -67,5 +89,27 @@ public class U03ejerc11 {
         }
 
         return decimal;
+    }
+
+    public static int stringADecimal(String palabrabinaria){
+        int longitud, numerodecimal;
+
+        numerodecimal = 0;
+
+        longitud = palabrabinaria.length();
+
+        for(int i=(longitud-1); i>=0; i--){
+            if(palabrabinaria.charAt(i)==1 || palabrabinaria.charAt(i)==0){
+                System.out.println("Llega ==1 " + palabrabinaria.charAt(i));
+                numerodecimal += Math.pow(2, ((longitud-1)-i));
+                System.out.println(numerodecimal);
+            }else{
+                System.out.println("Llega !=0 " + palabrabinaria.charAt(i));
+
+                numerodecimal = -1;
+            }
+        }
+
+        return numerodecimal;
     }
 }
