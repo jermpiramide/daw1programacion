@@ -9,6 +9,6 @@ public class U03ejempJOptionPane {
 
         nombre = JOptionPane.showInputDialog("¿Cómo te llamas?");
 
-        JOptionPane.showMessageDialog(null, "Hola " + nombre + ", encantado de conocerte.");
+        JOptionPane.showMessageDialog(null, "Hola " + nombre);
     }
 }
