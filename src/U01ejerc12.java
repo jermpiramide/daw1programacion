@@ -20,5 +20,7 @@ public class U01ejerc12 {
         letra = sc.nextLine().charAt(0);
 
         System.out.println("El código ASCII de la letra " + letra + " es: " + ((int) letra));
+        System.out.println("Los tres siguientes caracteres son: " + ((char)(letra + 1)) + ", " +
+                ((char)(letra + 2)) + " y " + ((char)(letra + 3)));
     }
 }

@@ -24,7 +24,7 @@ public class U01ejerc11 {
         postb = b--;
 
         System.out.printf("a+b=%d%na-b=%d%na*b=%d%na/b=%d%nResto de a/b=%d%na+1=%d%n1+a=%d%nb-1=%d%n1-b=%d%n", (a+b),
-                (a-b), (a*b), (a/b), (a%b),prea, posta, preb, postb);
+                (a-b), (a*b), (a/b), (a%b), prea, posta, preb, postb);
 
     }
 }

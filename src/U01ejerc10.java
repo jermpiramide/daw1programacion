@@ -19,6 +19,6 @@ public class U01ejerc10 {
 
         superficie = longitud * anchura;
 
-        System.out.println("Superficie=" + superficie + " u²");
+        System.out.printf("Superficie=%.4f u²", superficie);
     }
 }

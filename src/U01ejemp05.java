@@ -3,10 +3,10 @@
 
 public class U01ejemp05 {
     public static void main(String args[]){
-        final double IVA = 21;
+        final double IVA = 0.21;
         final int IVAENTERO = 21;
         double baseimponible = 100;
-        double totalfactura = baseimponible*(1+(IVA/100));
+        double totalfactura = baseimponible*(1+IVA);
 
         System.out.println("Total factura: " + totalfactura);
         System.out.println("Total factura (forzadondo a double la variable entera 'IVAENTERO'): " + (baseimponible*(1+((1.0*IVAENTERO)/100))));
