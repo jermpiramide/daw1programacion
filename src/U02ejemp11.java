@@ -9,7 +9,7 @@ public class U02ejemp11 {
         Scanner sc;
         int numero, digitos;
 
-        digitos = 1; //Empezamos en 1 porque para números <10 (un sólo dígito) nuestro
+        digitos = 1; //Empezamos en 1 porque para números <10 (números de un sólo dígito) nuestro
                      // algoritmo arroja esta cifra directamente.
 
         sc = new Scanner(System.in);

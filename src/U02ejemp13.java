@@ -29,7 +29,7 @@ public class U02ejemp13 {
         prueba = true;
 
         //Empezamos el bucle en i=2 porque ningún número es divisible por cero y todos lo son entre uno.
-        for(int i =2; i<(numero/2); i++){
+        for(int i=2; i<(numero/2); i++){
             //Ponemos la condición numero/2 porque ningún número es divisible por un número mayor que la
             // mitad de su valor.
             if ((numero%i)==0){

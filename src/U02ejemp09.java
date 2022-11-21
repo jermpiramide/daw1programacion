@@ -8,14 +8,23 @@ public class U02ejemp09 {
 
         Scanner sc;
         int numero;
+        int j;
 
         sc = new Scanner(System.in);
+        j = 0;
 
         System.out.println("Itroduzca un número: ");
         numero = sc.nextInt();
 
+        /*
         for(int i=0; i<=9; i++){
             System.out.println(numero + "x" + i + "=" + (numero*i));
         }
+        */
+
+        do {
+            System.out.println(numero + "x" + j + "=" + (numero * j));
+            j++;
+        } while(j<=9);
     }
 }

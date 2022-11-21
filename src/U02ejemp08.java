@@ -11,7 +11,7 @@ public class U02ejemp08 {
 
         while(numero>=160){
             System.out.println(numero);
-            numero-=20;
+            numero -= 20;
         }
     }
 }

@@ -1,6 +1,7 @@
 // Escribe un prograna que muestre los n primeros términos de la serie de Fibonacci.
 // El primer término es el 0, el segundo el 1 y el resto se calcula sumando
 // los dos anteriores. (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144...) El número n se introducirá por teclado.
+
 import java.util.Scanner;
 
 public class U02ejemp12 {
@@ -29,19 +30,20 @@ public class U02ejemp12 {
                 fibo2 = fibo1 + fibo2;
             }
         }
-/*
-        //Otro posible algoritmo para generar la serie consiste en untilizar una variable auxiliar.
+
+        /*
+        //Otro posible algoritmo para generar la serie consiste en utilizar una variable auxiliar.
         long aux;
 
-        System.out.printf("Término número 1: %d", fibo1);
-        System.out.printf("Término número 2: %d", fibo2);
+        System.out.printf("Término número 1: %d%n", fibo1);
+        System.out.printf("Término número 2: %d%n", fibo2);
 
-        for (int i=2; i<cantidad; i++=){
+        for (int i=2; i<cantidad; i++){
             aux = fibo2;
             fibo2 = fibo1 + fibo2;
             System.out.printf("Término número %d: %d%n", (i+1), fibo2);
             fibo1 = aux;
         }
- */
+        */
     }
 }

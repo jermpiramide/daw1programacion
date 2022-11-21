@@ -18,7 +18,7 @@ public class U02ejemp10 {
         System.out.println("Introduce la cantidad de números con los que deseas calcular la media: ");
         cantidad = sc.nextInt();
 
-        System.out.println("Introduce, separado por espacios; los números de los que quieras calcular su media: ");
+        System.out.println("Introduce, separado por espacios, los números de los que quieras calcular su media: ");
 
         for(int i=0; i<cantidad; i++){
             media = media + sc.nextInt();

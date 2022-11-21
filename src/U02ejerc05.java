@@ -17,7 +17,7 @@ public class U02ejerc05 {
 
         if (Character.isDigit(caracter)) {
             System.out.println("Es un número.");
-        } else if (Character.isLetter(caracter)) {
+        } else if (Character.isLetter(caracter)){
             if (Character.isUpperCase(caracter)){
                 System.out.println("Es una letra mayúscula.");
             } else {
