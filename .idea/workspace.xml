@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde ASUS. Actualización de ejemplos y ejercicios U03.">
-      <change afterPath="$PROJECT_DIR$/src/LaboratorioDePruebas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_10_22_9_32_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_10_22_9_32__Changes_.xml" beforeDir="false" />
+    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde pc Pirámide: actualización U03.">
+      <change afterPath="$PROJECT_DIR$/src/JoseEnriqueRodriguezMartin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JoseEnriqueRodriguezMartin02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejemp08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejemp09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejemp10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejemp11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejemp12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejemp13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +37,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -55,37 +45,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LaboratorioDePruebas">
-    <configuration name="LaboratorioDePruebas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LaboratorioDePruebas" />
+  <component name="RunManager" selected="Application.JoseEnriqueRodriguezMartin">
+    <configuration name="JoseEnriqueRodriguezMartin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JoseEnriqueRodriguezMartin" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U02ejemp04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U02ejemp04" />
+    <configuration name="JoseEnriqueRodriguezMartin02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JoseEnriqueRodriguezMartin02" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U02ejemp09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U02ejemp09" />
+    <configuration name="U03ejemp07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejemp07" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U02ejemp12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U02ejemp12" />
+    <configuration name="U03ejempJOptionPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejempJOptionPane" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U02ejemp13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U02ejemp13" />
+    <configuration name="U03ejerc11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejerc11" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LaboratorioDePruebas" />
-        <item itemvalue="Application.U02ejemp13" />
-        <item itemvalue="Application.U02ejemp12" />
-        <item itemvalue="Application.U02ejemp09" />
-        <item itemvalue="Application.U02ejemp04" />
+        <item itemvalue="Application.JoseEnriqueRodriguezMartin" />
+        <item itemvalue="Application.JoseEnriqueRodriguezMartin02" />
+        <item itemvalue="Application.U03ejempJOptionPane" />
+        <item itemvalue="Application.U03ejemp07" />
+        <item itemvalue="Application.U03ejerc11" />
       </list>
     </recent_temporary>
   </component>
@@ -215,42 +205,35 @@
       <option name="project" value="LOCAL" />
       <updated>1665657071748</updated>
     </task>
-    <task id="LOCAL-00016" summary="Desde ASUS. Actualización de ejemplos y ejercicios U03.">
-      <created>1666032156132</created>
+    <task id="LOCAL-00016" summary="Desde el pc del instituto: actualización U03.">
+      <created>1666082247565</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1666032156132</updated>
+      <updated>1666082247565</updated>
     </task>
-    <task id="LOCAL-00017" summary="Desde ASUS. Actualización de ejemplos y ejercicios U03.">
-      <created>1666032266131</created>
+    <task id="LOCAL-00017" summary="Desde el pc del instituto: actualización U03.">
+      <created>1666167889990</created>
       <option name="number" value="00017" />
       <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1666032266131</updated>
+      <updated>1666167889990</updated>
     </task>
-    <task id="LOCAL-00018" summary="Desde ASUS. Actualización de ejemplos y ejercicios U03.">
-      <created>1666032344637</created>
+    <task id="LOCAL-00018" summary="Desde pc Pirámide: actualización U03.">
+      <created>1666262730206</created>
       <option name="number" value="00018" />
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
-      <updated>1666032344637</updated>
+      <updated>1666262730206</updated>
     </task>
-    <task id="LOCAL-00019" summary="Desde ASUS. Actualización de ejemplos y ejercicios U03.">
-      <created>1666044223469</created>
+    <task id="LOCAL-00019" summary="Desde pc Pirámide: actualización U03.">
+      <created>1666685872183</created>
       <option name="number" value="00019" />
       <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1666044223469</updated>
+      <updated>1666685872184</updated>
     </task>
-    <task id="LOCAL-00020" summary="Desde ASUS. Actualización de ejemplos y ejercicios U03.">
-      <created>1666339392399</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1666339392399</updated>
-    </task>
-    <option name="localTasksCounter" value="21" />
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,8 +253,9 @@
     <MESSAGE value="Actualización con ejemplos y ejercicios de la Unidad 2" />
     <MESSAGE value="Importación al pc del instituto y modificación de nombres." />
     <MESSAGE value="Desde el pc del instituto: actualización U02." />
-    <MESSAGE value="Desde ASUS. Actualización de ejemplos y ejercicios U03." />
-    <option name="LAST_COMMIT_MESSAGE" value="Desde ASUS. Actualización de ejemplos y ejercicios U03." />
+    <MESSAGE value="Desde el pc del instituto: actualización U03." />
+    <MESSAGE value="Desde pc Pirámide: actualización U03." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desde pc Pirámide: actualización U03." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -302,14 +286,23 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/U03ejemp04.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="20" />
+          <url>file://$PROJECT_DIR$/src/U03ejerc11.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/U03ejempAleatorio.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="21" />
+          <url>file://$PROJECT_DIR$/src/U03ejerc11.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JoseEnriqueRodriguezMartin02.java</url>
+          <line>125</line>
+          <properties class="JoseEnriqueRodriguezMartin02" method="muestraArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
