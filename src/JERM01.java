@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class JoseEnriqueRodriguezMartin01 {
+public class JERM01 {
 
     public static void main(String args[]){
 
