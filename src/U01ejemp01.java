@@ -6,7 +6,7 @@
 public class U01ejemp01 {
 
     public static void main(String args[]){
-        System.out.println("Cara\t\t\tCoche\nHouse\t\tCasa\nRain\t\tLluvia\nDog\t\t\tPerro\nCat\t\t\tGato");
+        System.out.println("Car\t\t\tCoche\nHouse\t\tCasa\nRain\t\tLluvia\nDog\t\t\tPerro\nCat\t\t\tGato");
     }
 
 }

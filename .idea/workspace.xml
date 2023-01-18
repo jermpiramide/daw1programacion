@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde pc Pirámide: actualización U03.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_11_22_8_37_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_11_22_8_37__Changes_.xml" beforeDir="false" />
+    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde ASUSPro: prueba de conexión IntelliJ con GitHub">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JoseEnriqueRodriguezMartin01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JERM01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JoseEnriqueRodriguezMartin02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JERM02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JERM01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JERM01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JERM02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JERM02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/U01ejemp01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U01ejemp01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +62,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JERM01">
+  <component name="RunManager">
     <configuration name="JERM01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JERM01" />
       <module name="Programacion" />
@@ -253,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666685872184</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Desde ASUSPro: prueba de conexión IntelliJ con GitHub">
+      <created>1674075001804</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674075001804</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,7 +279,8 @@
     <MESSAGE value="Desde el pc del instituto: actualización U02." />
     <MESSAGE value="Desde el pc del instituto: actualización U03." />
     <MESSAGE value="Desde pc Pirámide: actualización U03." />
-    <option name="LAST_COMMIT_MESSAGE" value="Desde pc Pirámide: actualización U03." />
+    <MESSAGE value="Desde ASUSPro: prueba de conexión IntelliJ con GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desde ASUSPro: prueba de conexión IntelliJ con GitHub" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -317,7 +322,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/JERM02.java</url>
-          <line>125</line>
+          <line>126</line>
           <properties class="JERM02" method="muestraArray">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
