@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde ASUSPro: prueba de conexión IntelliJ con GitHub">
+    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde ASUSPro: actualización ejercicios de examen.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JERM01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JERM01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JERM02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JERM02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U01ejemp01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U01ejemp01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LaboratorioDePruebas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LaboratorioDePruebas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +51,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -77,6 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="U01ejemp01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U01ejemp01" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="U03ejemp07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="U03ejemp07" />
       <module name="Programacion" />
@@ -91,20 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U03ejerc11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejerc11" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.U01ejemp01" />
         <item itemvalue="Application.JERM01" />
         <item itemvalue="Application.JERM02" />
         <item itemvalue="Application.U03ejempJOptionPane" />
         <item itemvalue="Application.U03ejemp07" />
-        <item itemvalue="Application.U03ejerc11" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674075001804</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Desde ASUSPro: actualización ejercicios de examen.">
+      <created>1674075451718</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1674075451718</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,7 +285,8 @@
     <MESSAGE value="Desde el pc del instituto: actualización U03." />
     <MESSAGE value="Desde pc Pirámide: actualización U03." />
     <MESSAGE value="Desde ASUSPro: prueba de conexión IntelliJ con GitHub" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desde ASUSPro: prueba de conexión IntelliJ con GitHub" />
+    <MESSAGE value="Desde ASUSPro: actualización ejercicios de examen." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desde ASUSPro: actualización ejercicios de examen." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -331,5 +337,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

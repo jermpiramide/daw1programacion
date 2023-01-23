@@ -6,19 +6,14 @@ public class LaboratorioDePruebas {
 
     public static void main(String args[]){
 
-        Scanner sc;
+        String cadena1="Casa";
+        String cadena2="Manzana";
+        String cadena3="Manzana";
 
-        int n;
+        System.out.println(cadena1 + cadena2 + cadena3);
 
-        sc = new Scanner(System.in);
-
-        System.out.println("blablalba");
-
-        n = sc.nextInt();
-
-        System.out.println(n);
-
-
+        System.out.println(cadena1.equals(cadena2)); // Returns true because they are equal
+        System.out.println(cadena2.equals(cadena3)); // false
 
     }
 
