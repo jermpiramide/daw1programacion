@@ -1,10 +1,12 @@
-//Escribe un programa que solicite al usuario un número N y luego muestre por pantalla la siguiente ejecución:
-//1
-//1 2
-//1 2 3
-//1 2 3 4
-//…………
-//1 2 3 4 …..N
+/*
+Escribe un programa que solicite al usuario un número N y luego muestre por pantalla la siguiente ejecución:
+1
+1 2
+1 2 3
+1 2 3 4
+…………
+1 2 3 4 …..N
+*/
 
 import java.util.Scanner;
 

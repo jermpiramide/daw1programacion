@@ -1,20 +1,35 @@
 // Esta es una clase para poder hacer pruebas. Como si se tratara de una hoja en sucio.
 
+// Realiza un programa que calcule la media de n números introducidos por teclado.
+// El valor de n se pedirá al usuario al comienzo del programa
+// y será un valor entero positivo mayor que 0. (acumulador y contador)
+
 import java.util.Scanner;
 
 public class LaboratorioDePruebas {
 
     public static void main(String args[]){
 
-        String cadena1="Casa";
-        String cadena2="Manzana";
-        String cadena3="Manzana";
+        Scanner sc;
+        int tamano, aux;
+        double media;
 
-        System.out.println(cadena1 + cadena2 + cadena3);
+        sc = new Scanner(System.in);
+        media = 0;
 
-        System.out.println(cadena1.equals(cadena2)); // Returns true because they are equal
-        System.out.println(cadena2.equals(cadena3)); // false
+        System.out.println("Introduce la cantidad de numeros: ");
 
+        tamano = sc.nextInt();
+
+        System.out.println("Introduce los " + tamano + " datos separados por un espacio: ");
+
+        for(int i=0;i<tamano;i++){
+            media = media + sc.nextInt();
+        }
+
+        System.out.println("La media es " + media/tamano);
     }
 
 }
+
+

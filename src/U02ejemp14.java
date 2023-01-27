@@ -19,6 +19,8 @@ public class U02ejemp14 {
         System.out.println("Introduce una lista de número enteros separados por un espacio: ");
 
         while(sc.hasNextInt()){
+            //El comando sc.hasNextInt() devuelve un booleano true si el flujo de datos recorrido por sc tiene
+            //algún número entero posterior al último número entero comprobado o utilizado dentro del flujo.
             aux = sc.nextInt();
             if(aux>0){
                 npositivos++;

@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde ASUSPro: actualización ejercicios de examen.">
+    <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde ASUSPro: actualización.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LaboratorioDePruebas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LaboratorioDePruebas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejemp09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejemp13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejemp14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejemp15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejerc08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc08.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,53 +49,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="JERM01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JERM01" />
+  <component name="RunManager" selected="Application.U02ejemp15">
+    <configuration name="LaboratorioDePruebas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaboratorioDePruebas" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JERM02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JERM02" />
+    <configuration name="U02ejemp12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U02ejemp12" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U01ejemp01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U01ejemp01" />
+    <configuration name="U02ejemp13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U02ejemp13" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U03ejemp07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejemp07" />
+    <configuration name="U02ejemp14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U02ejemp14" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U03ejempJOptionPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejempJOptionPane" />
+    <configuration name="U02ejemp15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U02ejemp15" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.U01ejemp01" />
-        <item itemvalue="Application.JERM01" />
-        <item itemvalue="Application.JERM02" />
-        <item itemvalue="Application.U03ejempJOptionPane" />
-        <item itemvalue="Application.U03ejemp07" />
+        <item itemvalue="Application.U02ejemp15" />
+        <item itemvalue="Application.U02ejemp14" />
+        <item itemvalue="Application.U02ejemp13" />
+        <item itemvalue="Application.U02ejemp12" />
+        <item itemvalue="Application.LaboratorioDePruebas" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674075451718</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Desde ASUSPro: actualización.">
+      <created>1674510320192</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1674510320192</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,7 +298,8 @@
     <MESSAGE value="Desde pc Pirámide: actualización U03." />
     <MESSAGE value="Desde ASUSPro: prueba de conexión IntelliJ con GitHub" />
     <MESSAGE value="Desde ASUSPro: actualización ejercicios de examen." />
-    <option name="LAST_COMMIT_MESSAGE" value="Desde ASUSPro: actualización ejercicios de examen." />
+    <MESSAGE value="Desde ASUSPro: actualización." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desde ASUSPro: actualización." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -305,11 +318,6 @@
           <url>file://$PROJECT_DIR$/src/U02ejemp15.java</url>
           <line>21</line>
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/U02ejerc07.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/U03ejemp01.java</url>

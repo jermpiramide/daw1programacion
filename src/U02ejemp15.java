@@ -61,6 +61,6 @@ public class U02ejemp15 {
                     " raíz o introduzca 3 para finalizar el programa: ");
             menu = sc.nextInt();
         }
-        System.out.println("Se ejecuta hasta el final.");
+        System.out.println("El programa ha finalizado su ejecución.");
     }
 }
