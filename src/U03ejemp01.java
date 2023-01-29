@@ -1,7 +1,9 @@
-// Crea un array en el que se almacenen los datos de porcentaje
-// de llenado de un pantano en cada uno de los meses del año.
-// A partir de ese array, muestra por pantalla los correspondientes a los meses de verano.
-// (Crea el array como objeto y también explícitamente)
+/*
+ Crea un array en el que se almacenen los datos de porcentaje
+ de llenado de un pantano en cada uno de los meses del año.
+ A partir de ese array, muestra por pantalla los correspondientes a los meses de verano.
+ (Crea el array como objeto y también explícitamente)
+*/
 
 
 public class U03ejemp01 {
