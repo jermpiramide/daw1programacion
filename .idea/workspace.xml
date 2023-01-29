@@ -7,11 +7,13 @@
     <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde ASUSPro: actualización.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LaboratorioDePruebas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LaboratorioDePruebas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejemp09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejemp13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejemp14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/U02ejemp15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejemp15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U02ejerc08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejerc02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejerc04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejerc05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejerc06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejerc09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U02ejerc10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U02ejerc10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +67,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.U02ejemp15">
+  <component name="RunManager" selected="Application.U02ejerc05">
     <configuration name="LaboratorioDePruebas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LaboratorioDePruebas" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="U02ejemp12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U02ejemp12" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,13 +96,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="U02ejerc05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U02ejerc05" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.U02ejerc05" />
+        <item itemvalue="Application.LaboratorioDePruebas" />
         <item itemvalue="Application.U02ejemp15" />
         <item itemvalue="Application.U02ejemp14" />
         <item itemvalue="Application.U02ejemp13" />
-        <item itemvalue="Application.U02ejemp12" />
-        <item itemvalue="Application.LaboratorioDePruebas" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674510320192</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Desde ASUSPro: actualización.">
+      <created>1674850823653</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1674850823653</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +325,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/U02ejemp15.java</url>
-          <line>21</line>
+          <line>23</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

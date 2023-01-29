@@ -4,6 +4,9 @@
 // El valor de n se pedirá al usuario al comienzo del programa
 // y será un valor entero positivo mayor que 0. (acumulador y contador)
 
+
+//Escribe un programa que lea del teclado tres números e indique el mayor de ellos.
+
 import java.util.Scanner;
 
 public class LaboratorioDePruebas {
@@ -11,25 +14,23 @@ public class LaboratorioDePruebas {
     public static void main(String args[]){
 
         Scanner sc;
-        int tamano, aux;
-        double media;
+        int a, b=7;
 
         sc = new Scanner(System.in);
-        media = 0;
 
-        System.out.println("Introduce la cantidad de numeros: ");
+        a = sc.nextInt();
 
-        tamano = sc.nextInt();
+        System.out.println("El número a es: " + a);
 
-        System.out.println("Introduce los " + tamano + " datos separados por un espacio: ");
+        System.out.println("Introduce otros números: ");
 
-        for(int i=0;i<tamano;i++){
-            media = media + sc.nextInt();
-        }
 
-        System.out.println("La media es " + media/tamano);
+        System.out.println("El número b es: " + b);
+
+
+
+
     }
-
 }
 
 

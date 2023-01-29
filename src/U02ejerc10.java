@@ -1,5 +1,7 @@
-//Completa el ejemplo 15 que tienes en github para que cumpla con su enunciado.
-//El ejemplo de Github está desarrollado en U02ejemp15.
+/*
+Completa el ejemplo 15 que tienes en github para que cumpla con su enunciado.
+El ejemplo de Github está desarrollado en U02ejemp15.
+*/
 
 import java.util.Scanner;
 

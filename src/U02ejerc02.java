@@ -27,6 +27,12 @@ public class U02ejerc02 {
         */
         numeromayor = Math.max(numeroA, numeroB);
         numeromayor = Math.max(numeromayor, numeroC);
+        // Una forma más compacta:
+        // numeromayor = Math.max(numeroA, Math.max(numeroB, numeroC));
+        // También podemos ahorrarnos la variable numeromayor si utilizamos la variable numeroA como variable en la que
+        // almacenar el número mayor:
+        // numeroA = Math.max(numeroA, Math.max(numeroB, numeroC));
+
 
         System.out.printf("El número mayor es: %f", numeromayor);
     }

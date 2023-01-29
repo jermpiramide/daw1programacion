@@ -1,6 +1,8 @@
-// Utilización de la clase Math para hacer una calculadora que haga raices cuadradas
-// y divisiones y si una operación no es posible lo comunique. Nos permitirá introducir
-// las operaciones mediante un menú, y no terminará hasta que le digamos que lo haga.
+/*
+ Utilización de la clase Math para hacer una calculadora que haga raices cuadradas
+ y divisiones y si una operación no es posible lo comunique. Nos permitirá introducir
+ las operaciones mediante un menú, y no terminará hasta que le digamos que lo haga.
+*/
 
 import java.util.Scanner;
 

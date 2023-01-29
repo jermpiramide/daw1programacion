@@ -1,6 +1,8 @@
-//Escribe un programa que indique si un número entero leído por teclado se puede expresar como el cuadrado de un número
-// entero. Por ejemplo, el número 9 se puede expresar como el cuadrado de 3, mientras que el 8 no. (Pista, no hace
-// falta utilizar repetición, utilizar librería matemática).
+/*
+Escribe un programa que indique si un número entero leído por teclado se puede expresar como el cuadrado de un número
+ entero. Por ejemplo, el número 9 se puede expresar como el cuadrado de 3, mientras que el 8 no. (Pista, no hace
+ falta utilizar repetición, utilizar librería matemática).
+*/
 
 import java.util.Scanner;
 
