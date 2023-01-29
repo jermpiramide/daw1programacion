@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class LaboratorioDePruebas {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         Scanner sc;
         int a, b=7;
