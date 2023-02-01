@@ -60,23 +60,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.U02ejerc05">
+  <component name="RunManager" selected="Application.U03ejemp02">
     <configuration name="LaboratorioDePruebas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LaboratorioDePruebas" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="U02ejemp13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U02ejemp13" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="U02ejemp14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U02ejemp14" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,13 +82,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="U03ejemp01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejemp01" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="U03ejemp02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejemp02" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.U03ejemp02" />
+        <item itemvalue="Application.U03ejemp01" />
         <item itemvalue="Application.U02ejerc05" />
         <item itemvalue="Application.LaboratorioDePruebas" />
         <item itemvalue="Application.U02ejemp15" />
-        <item itemvalue="Application.U02ejemp14" />
-        <item itemvalue="Application.U02ejemp13" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674994833699</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Desde ASUSPro: actualización.">
+      <created>1675024115113</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1675024115113</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,7 +344,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/U03ejemp01.java</url>
-          <line>26</line>
+          <line>27</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

@@ -12,15 +12,16 @@ public class U03ejemp02 {
 
         System.out.println("Años: " + anos);
 
-        duplicaEntero(anos);
+        duplicaEntero(anos); // El parámetro es un int. Al ser un tipo de dato primitivo su paso es por valor.
 
         System.out.println("La variable \"anos\" después de aplicar el método \"duplicaEntero\" vale: " + anos);
 
-        muestraArray(nota);
+        muestraArray(nota); // El parámetro es un array. Puesto que los arrays son objetos, su paso es por referencia.
 
         System.out.println();
 
-        modificaArray(nota, posicion, nuevanota);
+        modificaArray(nota, posicion, nuevanota); // El primer parámetro es un array. Puesto que los arrays son
+        // objetos, su paso es por referencia.
 
         muestraArray(nota);
     }
@@ -34,12 +35,15 @@ public class U03ejemp02 {
     public static void muestraArray(double[] array){
 
         for(int i=0; i<array.length; i++){
+            // array.length nos devuelve un entero con la longitud del array.
             System.out.printf("%.1f ", array[i]);
         }
     }
 
     public static void modificaArray(double[] array, int posicion, int cambio){
-
+        // Puesto que un array es un objeto, su paso se hacer por referencia. Esto significa que si modificamos los
+        // elementos de un array dentro de una función a la que le ha sido pasado el array como dato, los datos del
+        // array son modificados dentro y fuera de la función.
         array[posicion] = cambio;
     }
 }

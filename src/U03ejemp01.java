@@ -15,6 +15,7 @@ public class U03ejemp01 {
         lleno = new double[12];
 
         for(int i=0; i<12; i++){
+            // Llenamos el array con unos valores cualesquiera, siempre menores que 100.
             lleno[i] = i*8;
         }
 
