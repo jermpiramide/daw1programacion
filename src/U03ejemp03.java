@@ -10,6 +10,21 @@ public class U03ejemp03 {
         int[] numeros;
 
         numeros = creaArray(); //Generamos un array y se lo asignamos a la variable "numeros".
+        /*
+        // Otra forma de crear un array del tamaño deseado es instanciarlo en la función main en lugar de instanciarlo
+        // dentro de la función creaArray y que esta devuelva el array creado a la variable numeros de la función main.
+        Scanner sc;
+        int cantidad;
+        int[] datos;
+
+        sc = new Scanner(System.in);
+
+        System.out.println("Introduce la cantidad de datos que quieres almacenar: ");
+        cantidad = sc.nextInt();
+
+        datos = new int[cantidad];
+
+         */
         llenaArray(numeros); //Llenamos el array con números.
         muestraArray(numeros);
     }
@@ -32,8 +47,8 @@ public class U03ejemp03 {
     }
 
     public static void llenaArray(int[] array){
-        //Este método recibe un array de enteros y lo modifica.
-        //No necesitamos devolver el nuevo array porque la función ha recibido el array a modificar como
+        // Este método recibe un array de enteros y lo modifica.
+        // No necesitamos devolver el nuevo array porque la función ha recibido el array a modificar como
         // dato y al no ser un dato primitivo, el dato se pasa por referencia.
 
         Scanner sc;
@@ -44,6 +59,16 @@ public class U03ejemp03 {
             System.out.println("Introduce el valor que quieras asignar a la posición " + i + " del array.");
             array[i] = sc.nextInt();
         }
+
+        /*
+        // Otra forma de solicitar datos y almacenarlos en el array es solicitar todos los datos de una sola vez.
+
+        System.out.printf("Introduce %d números enteros separados por un espacio: \n", elementos.length);
+
+        for(int i=0; i<elementos.length; i++){
+            elementos[i] = sc.nextInt();
+        }
+         */
     }
 
     public static void muestraArray(int[] array){
