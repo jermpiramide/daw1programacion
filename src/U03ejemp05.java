@@ -1,6 +1,8 @@
-// Un programador trabaja en dos proyectos simultáneamente. Crea un vector bidimensional
-// que represente las horas trabajadas en cada proyecto cada día de la semana y llénalo con valores.
-// Haz que compruebe que ningún día se ha trabajado más de 8 horas.
+/*
+ Un programador trabaja en dos proyectos simultáneamente. Crea un vector bidimensional
+ que represente las horas trabajadas en cada proyecto cada día de la semana y llénalo con valores.
+ Haz que compruebe que ningún día se ha trabajado más de 8 horas.
+*/
 
 
 public class U03ejemp05 {
