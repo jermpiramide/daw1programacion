@@ -30,12 +30,13 @@ public class U03ejemp06 {
             }
         }
 
-        for(int[] i :array){
-            for(int j :i){
+/*        for(double[] i :array){
+            // Con este bucle foreach rellenamos el array de dos dimensiones. NO FUNCIONA!!!!!!
+            for(double j :i){
                 j = (Math.random()*(tempmax-tempmin)+tempmin); //(tempmax-tempmin) nos da la distancia entre
 
             }
-        }
+        }*/
     }
 
     public static void muestraArray2D(double[][] array){
