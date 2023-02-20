@@ -7,7 +7,8 @@
     <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde ASUSPro: actualización.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LaboratorioDePruebas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LaboratorioDePruebas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U03ejemp04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejemp04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U03ejemp05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejemp05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U03ejemp06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejemp06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,20 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="U02ejerc05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U02ejerc05" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="U03ejemp01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejemp01" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="U03ejemp02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="U03ejemp02" />
       <module name="Programacion" />
@@ -97,13 +84,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="U03ejemp05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejemp05" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="U03ejemp06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejemp06" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.LaboratorioDePruebas" />
+        <item itemvalue="Application.U03ejemp06" />
+        <item itemvalue="Application.U03ejemp05" />
         <item itemvalue="Application.U03ejemp04" />
         <item itemvalue="Application.U03ejemp02" />
-        <item itemvalue="Application.U03ejemp01" />
-        <item itemvalue="Application.U02ejerc05" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675935543734</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Desde ASUSPro: actualización.">
+      <created>1676830500872</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1676830500872</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

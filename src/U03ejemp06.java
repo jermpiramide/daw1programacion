@@ -1,6 +1,8 @@
-// Crea un programa que nos haga una tabla en la que se reflejen las
-// temperaturas de cada hora del día de toda la semana.
-// Rellénalas con valores aleatorios razonables. Muestra los datos por pantalla.
+/*
+ Crea un programa que nos haga una tabla en la que se reflejen las
+ temperaturas de cada hora del día de toda la semana.
+ Rellénalas con valores aleatorios razonables. Muestra los datos por pantalla.
+*/
 
 public class U03ejemp06 {
     public static void main(String args[]){
@@ -27,13 +29,20 @@ public class U03ejemp06 {
                 // limites tempmin y tempmax.
             }
         }
+
+        for(int[] i :array){
+            for(int j :i){
+                j = (Math.random()*(tempmax-tempmin)+tempmin); //(tempmax-tempmin) nos da la distancia entre
+
+            }
+        }
     }
 
     public static void muestraArray2D(double[][] array){
 
         for(int i=0; i<array.length; i++){
             for(int j=0; j<array[i].length; j++){
-                System.out.printf("Temperatura [%d][%d]: %.1fº\n", i, j, array[i][j]);
+                System.out.printf("Temperatura [%d][%d]: %.1fº\n", (i+1), j, array[i][j]);
             }
         }
 

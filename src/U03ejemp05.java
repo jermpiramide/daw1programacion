@@ -40,11 +40,15 @@ public class U03ejemp05 {
 
     public static boolean horasExtra(int[][] array){
 
-        for(int[] i :array){
-            for(int j :i){
-                if(j>8){
-                    return true;
-                }
+        int horasdia;
+
+        for(int i=0; i<array[0].length; i++){
+
+            horasdia = array[0][i]+array[1][i];
+
+            if(horasdia > 8){
+
+                return true;
             }
         }
 
