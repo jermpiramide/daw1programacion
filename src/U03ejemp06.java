@@ -25,7 +25,7 @@ public class U03ejemp06 {
             for(int j=0; j<array[i].length; j++){
                 //array[i][j] = (Math.random()*100)-50;
                 array[i][j] = (Math.random()*(tempmax-tempmin)+tempmin); //(tempmax-tempmin) nos da la distancia entre
-                // la temperatura máxima y la mínima. Cuando le añadimos +tempmin situa este intervalo entre los
+                // la temperatura máxima y la mínima. Cuando le añadimos +tempmin sitúa este intervalo entre los
                 // limites tempmin y tempmax.
             }
         }

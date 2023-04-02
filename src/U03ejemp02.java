@@ -12,19 +12,20 @@ public class U03ejemp02 {
 
         System.out.println("Años: " + anos);
 
-        duplicaEntero(anos); // El parámetro es un int. Al ser un tipo de dato primitivo su paso es por valor.
-                             // Para modificar el valor de anos el método tendría que devolver un entero con el dato
-                             // modificado y asignárselo a la variable anos.
+        duplicaEntero(anos); // El argumento es un int. Al ser un tipo de dato primitivo su paso es por valor. Por
+                             // tanto, la variable anos no va a verse modificada en el main.
+                             // Para modificar el valor de anos el procedimiento tendría que devolver un entero con el
+                             // dato modificado y asignárselo a la variable anos.
 
         System.out.println("La variable \"anos\" después de aplicar el método \"duplicaEntero\" vale: " + anos);
 
-        muestraArray(nota); // El parámetro es un array. Puesto que los arrays son objetos, su paso es por referencia.
+        muestraArray(nota); // El argumento es un array. Puesto que los arrays son objetos, su paso es por referencia.
 
         System.out.println();
 
-        modificaArray(nota, posicion, nuevanota); // El primer parámetro es un array. Puesto que los arrays son
+        modificaArray(nota, posicion, nuevanota); // El primer argumento es un array. Puesto que los arrays son
                                                   // objetos, su paso es por referencia. Esto implica que el array se
-                                                  // se verá modificado en el main si se modifica dentro del método.
+                                                  // verá modificado en el main si se modifica dentro del método.
 
         muestraArray(nota);
     }
@@ -45,9 +46,9 @@ public class U03ejemp02 {
     }
 
     public static void modificaArray(double[] array, int posicion, int cambio){
-        // Puesto que un array es un objeto, su paso se hace por referencia. Esto significa que ,si modificamos los
-        // elementos de un array dentro de una función a la que le ha sido pasado el array como dato, los datos del
-        // array son modificados dentro y fuera de la función.
+        // Puesto que un array es un objeto, su paso se hace por referencia. Esto significa que, si modificamos los
+        // elementos de un array dentro de un método al que le ha sido pasado el array como dato, los datos del
+        // array son modificados dentro y fuera del procedimiento.
 
         array[posicion] = cambio;
     }

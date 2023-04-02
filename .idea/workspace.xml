@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde ASUSPro: actualización.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U03ejemp02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejemp02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U03ejemp03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejemp03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U03ejemp04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejemp04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/U03ejemp06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejemp06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U03ejemp07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejemp07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,10 +102,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.U03ejemp07" />
-        <item itemvalue="Application.U03ejemp06" />
-        <item itemvalue="Application.LaboratorioDePruebas" />
         <item itemvalue="Application.U03ejemp05" />
         <item itemvalue="Application.U03ejemp04" />
+        <item itemvalue="Application.U03ejemp06" />
+        <item itemvalue="Application.LaboratorioDePruebas" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676916943778</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Desde ASUSPro: actualización.">
+      <created>1676917942132</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1676917942132</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -9,10 +9,12 @@ public class U03ejemp03 {
 
         int[] numeros;
 
-        numeros = creaArray(); //Generamos un array y se lo asignamos a la variable "numeros".
+        numeros = creaArray(); // Generamos un array utilizando una función y se lo asignamos a la variable "numeros".
+                               // Aunque no hemos instanciado el array, esto no es un problema ya que la función va a
+                               // devolver la dirección del array que allí se haya creado.
         /*
         // Otra forma de crear un array del tamaño deseado es instanciarlo en la función main en lugar de instanciarlo
-        // dentro de la función creaArray y que esta devuelva el array creado a la variable numeros de la función main.
+        // dentro de la función creaArray y que esta devuelva la dirección del array a la variable numeros del main.
         Scanner sc;
         int cantidad;
         int[] datos;
@@ -74,11 +76,11 @@ public class U03ejemp03 {
     public static void muestraArray(int[] array){
 
         for(int i :array){
-            //A este tipo de bucle se le denomina "for-each".
-            //It starts with the keyword for like a normal for-loop.
-            //Instead of declaring and initializing a loop counter variable, you declare a variable that is the
+            // A este tipo de bucle se le denomina "for-each".
+            // It starts with the keyword for like a normal for-loop.
+            // Instead of declaring and initializing a loop counter variable, you declare a variable that is the
             // same type as the base type of the array, followed by a colon, which is then followed by the array name.
-            //In the loop body, you can use the loop variable you created rather than using an indexed array element.
+            // In the loop body, you can use the loop variable you created rather than using an indexed array element.
 
             System.out.print("\t" + i);
         }
