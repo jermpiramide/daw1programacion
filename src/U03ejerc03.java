@@ -1,5 +1,7 @@
-//Crea un programa que permita almacenar en un array un conjunto de 20 números enteros de
-// valores comprendidos entre 0 y 99 generados aleatoriamente (utiliza el método Math.random()).
+/*
+Crea un programa que permita almacenar en un array un conjunto de 20 números enteros de
+valores comprendidos entre 0 y 99 generados aleatoriamente (utiliza el método Math.random()).
+*/
 
 public class U03ejerc03 {
     public static void main(String args[]){
