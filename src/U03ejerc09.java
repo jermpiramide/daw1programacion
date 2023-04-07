@@ -1,7 +1,9 @@
-//Modifica el programa anterior para que se puedan guardar hasta 30 calificaciones. El programa
-// pedirá calificaciones al usuario hasta que éste introduzca una nota negativa (o se llene el
-// array). El programa, además de lo requerido en el ejercicio anterior, mostrará la nota máxima
-// llamando a un método que se encargue de encontrarla.
+/*
+Modifica el programa anterior para que se puedan guardar hasta 30 calificaciones. El programa
+pedirá calificaciones al usuario hasta que éste introduzca una nota negativa (o se llene el
+array). El programa, además de lo requerido en el ejercicio anterior, mostrará la nota máxima
+llamando a un método que se encargue de encontrarla.
+*/
 
 import java.util.Scanner;
 
@@ -25,6 +27,7 @@ public class U03ejerc09 {
             suspensos = numero.length - aprobados;
             buscaMinMax(numero, minmax);
 
+            System.out.printf("Nota media del curso: %.2f\n", media);
             System.out.println("Número de aprobados: " + aprobados);
             System.out.println("Número de suspensos: " + suspensos);
             System.out.println("Nota mínima: " + minmax[0]);

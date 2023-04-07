@@ -22,7 +22,7 @@ public class U03ejerc08 {
         aprobados = cuentaAprobados(numero);
         suspensos = numero.length-aprobados;
 
-        System.out.println("Nota media del curso: " + media);
+        System.out.printf("Nota media del curso: %.2f\n", media);
         System.out.println("Número de aprobados: " + aprobados);
         System.out.println("Número de suspensos: " + suspensos);
 
