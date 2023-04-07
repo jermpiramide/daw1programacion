@@ -6,10 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a2b7f3a0-9822-428b-90dd-45022bb64a70" name="Changes" comment="Desde ASUSPro: actualización.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U03ejerc02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejerc02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U03ejerc03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejerc03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U03ejerc04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejerc04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U03ejerc05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejerc05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LaboratorioDePruebas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LaboratorioDePruebas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U03ejerc06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejerc06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U03ejerc07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejerc07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U03ejerc08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U03ejerc08.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,16 +63,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.U03ejerc05">
-    <configuration name="U03ejerc01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejerc01" />
-      <module name="Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="U03ejerc02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U03ejerc02" />
+  <component name="RunManager" selected="Application.U03ejerc08">
+    <configuration name="LaboratorioDePruebas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaboratorioDePruebas" />
       <module name="Programacion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,13 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="U03ejerc08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U03ejerc08" />
+      <module name="Programacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.U03ejerc08" />
+        <item itemvalue="Application.LaboratorioDePruebas" />
         <item itemvalue="Application.U03ejerc05" />
         <item itemvalue="Application.U03ejerc04" />
         <item itemvalue="Application.U03ejerc03" />
-        <item itemvalue="Application.U03ejerc02" />
-        <item itemvalue="Application.U03ejerc01" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680771774488</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Desde ASUSPro: actualización.">
+      <created>1680772980035</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1680772980035</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

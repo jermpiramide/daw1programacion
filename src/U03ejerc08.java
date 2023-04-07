@@ -1,7 +1,9 @@
-//Implementa un programa que pida al usuario las calificaciones (double) de los 10 estudiantes
-// de una clase y los guarde en un array. Después, mostrará esas calificaciones (cada una en
-// una línea), seguida de la media del curso y del número de aprobados y suspensos. Se usará un
-// método para calcular la nota media y otro para el número de suspensos.
+/*
+Implementa un programa que pida al usuario las calificaciones (double) de los 10 estudiantes
+de una clase y los guarde en un array. Después, mostrará esas calificaciones (cada una en
+una línea), seguida de la media del curso y del número de aprobados y suspensos. Se usará un
+método para calcular la nota media y otro para el número de suspensos.
+*/
 
 import java.util.Scanner;
 
@@ -20,6 +22,7 @@ public class U03ejerc08 {
         aprobados = cuentaAprobados(numero);
         suspensos = numero.length-aprobados;
 
+        System.out.println("Nota media del curso: " + media);
         System.out.println("Número de aprobados: " + aprobados);
         System.out.println("Número de suspensos: " + suspensos);
 
