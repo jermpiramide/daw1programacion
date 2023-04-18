@@ -19,7 +19,6 @@ public class U03ejerc13 {
         max_Min_Med_Asignatura(nota);
         max_Min_Med_Curso(nota);
         alumno_Asignatura_Nota(nota);
-
     }
 
     public static void max_Min_Med_Alumno(double[][] nota){
@@ -27,33 +26,34 @@ public class U03ejerc13 {
 
         for(int i=0; i<nota.length; i++){
         // nota.length devuelve el número de filas del array.
-            System.out.printf("La nota máxima del alumno número %d es: \n", i, nota_Maxima_Alumno(nota, i));
-            System.out.printf("La nota mínima del alumno número %d es: \n", i, nota_Minima_Alumno(nota, i));
-            System.out.printf("La nota media del alumno número %d es: \n", i, nota_Minima_Alumno(nota, i));
+            System.out.printf("La nota máxima del alumno número %d es: %.1f\n", i, nota_Maxima_Alumno(nota, i));
+            System.out.printf("La nota mínima del alumno número %d es: %.1f\n", i, nota_Minima_Alumno(nota, i));
+            System.out.printf("La nota media del alumno número %d es: %.1f\n", i, nota_Media_Alumno(nota, i));
         }
     }
 
     public static void max_Min_Med_Asignatura(double[][] nota){
     // Muestra las notas máxima, mínima y media de cada asignatura.
 
-        for(int i=0; i<nota[i].length; i++){
+        double aux;
+
+        int longitud_Columna;
+        longitud_Columna = nota[0].length;
+
+        for(int i=0; i<longitud_Columna; i++){
         // nota[i].length devuelve el número de columnas del array.
-            System.out.printf("La nota máxima de la asignatura número %d es: \n", i, nota_Maxima_Asignatura(nota, i));
-            System.out.printf("La nota máxima de la asignatura número %d es: \n", i, nota_Minima_Asignatura(nota, i));
-            System.out.printf("La nota máxima de la asignatura número %d es: \n", i, nota_Minima_Asignatura(nota, i));
+            System.out.printf("La nota máxima de la asignatura número %d es: %.1f\n", i, nota_Maxima_Asignatura(nota, i));
+            System.out.printf("La nota mínima de la asignatura número %d es: %.1f\n", i, nota_Minima_Asignatura(nota, i));
+            System.out.printf("La nota media de la asignatura número %d es: %.1f\n", i, nota_Media_Asignatura(nota, i));
         }
     }
 
     public static void max_Min_Med_Curso(double[][] nota){
     // Muestra las notas máxima, mínima y media de cada curso.
 
-        for(int i=0; i<nota[i].length; i++){
-            // nota[i].length devuelve el número de columnas del array.
-            System.out.printf("La nota máxima del curso es: \n", i, nota_Maxima_Curso(nota));
-            System.out.printf("La nota máxima del curso es: \n", i, nota_Minima_Curso(nota));
-            System.out.printf("La nota máxima del curso es: \n", i, nota_Minima_Curso(nota));
-        }
-
+        System.out.printf("La nota máxima del curso es: %.1f\n", nota_Maxima_Curso(nota));
+        System.out.printf("La nota mínima del curso es: %.1f\n", nota_Minima_Curso(nota));
+        System.out.printf("La nota media del curso es: %.1f\n", nota_Media_Curso(nota));
     }
 
     public static void alumno_Asignatura_Nota(double[][] nota){
@@ -74,7 +74,7 @@ public class U03ejerc13 {
     // Calcula la nota máxima de un alumno.
         double max;
 
-        max = 0;
+        max = nota[alumno][0];
 
         for(int i=0; i<nota[alumno].length; i++){
             max = Math.max(max, nota[alumno][i]);
@@ -87,7 +87,7 @@ public class U03ejerc13 {
     // Calcula la nota mínima de un alumno.
         double min;
 
-        min = 0;
+        min = nota[alumno][0];
 
         for(int i=0; i<nota[alumno].length; i++){
             min = Math.min(min, nota[alumno][i]);
@@ -115,7 +115,7 @@ public class U03ejerc13 {
     // Calcula la nota máxima de una asignatura.
         double max;
 
-        max = 0;
+        max = nota[0][asignatura];
 
         for(int i=0; i<nota.length; i++){
         // Recorremos los valores de la columna determinada por asignatura.
@@ -129,7 +129,7 @@ public class U03ejerc13 {
     // Calcula la nota mínima de una asignatura.
         double min;
 
-        min = 0;
+        min = nota[0][asignatura];
 
         for(int i=0; i<nota.length; i++){
         // Recorremos los valores de la columna determinada por asignatura.
@@ -160,7 +160,7 @@ public class U03ejerc13 {
         // Calcula la nota máxima de una asignatura.
         double max;
 
-        max = 0;
+        max = nota[0][0];
 
         for(int i=0; i<nota.length; i++){
             for(int j=0; j<nota[i].length; j++){
@@ -175,7 +175,7 @@ public class U03ejerc13 {
         // Calcula la nota mínima de una asignatura.
         double min;
 
-        min = 0;
+        min = nota[0][0];
 
         for(int i=0; i<nota.length; i++){
             for(int j=0; j<nota[i].length; j++){
@@ -198,7 +198,7 @@ public class U03ejerc13 {
             }
         }
 
-        med = med/(nota.length * nota[0].length // Dividimos la suma de las notas entre el número de notas que
+        med = med/(nota.length * nota[0].length); // Dividimos la suma de las notas entre el número de notas que
         // expresamos como filas*columnas.
 
         return med;
@@ -208,15 +208,15 @@ public class U03ejerc13 {
     // Dado un array de notas en 2D busca todas las posiciones en las que el valor nota_ref se encuentra en el array
     // y lo muestra por pantalla.
 
-        bolean aux;
+        boolean aux;
 
         aux = false; // Esta variable nos va a permitir saber si hay al menos una nota coincidente con nota_ref.
 
         for(int i=0; i<nota.length; i++){
-            for(int j=0; j<nota[i].length; i++){
+            for(int j=0; j<nota[i].length; j++){
                 if(nota[i][j]==nota_Referencia){
                     aux = true;
-                    System.out.printf("El alumno número %d en la asignatura %d ha obtenido la calificación %f.\n");
+                    System.out.printf("El alumno número %d en la asignatura %d ha obtenido la calificación %.1f.\n", i, j, nota[i][j]);
                 }
             }
         }
